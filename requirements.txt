@@ -1,0 +1,10 @@
+
+requests
+faiss-cpu
+rank-bm25
+sentence-transformers
+transformers
+peft
+streamlit
+pandas
+tabulate
