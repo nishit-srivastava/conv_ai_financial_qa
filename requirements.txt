@@ -1,10 +1,3 @@
-
-requests
-faiss-cpu
-rank-bm25
-sentence-transformers
-transformers
-peft
-streamlit
-pandas
-tabulate
+pymupdf>=1.23.9
+camelot-py[cv]>=0.11.0
+pandas>=2.2.0
