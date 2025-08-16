@@ -1,3 +1,9 @@
 pymupdf>=1.23.9
 camelot-py[cv]>=0.11.0
 pandas>=2.2.0
+pdfplumber
+tiktoken
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
