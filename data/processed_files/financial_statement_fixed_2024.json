@@ -1,0 +1,3884 @@
+{
+  "rows": [
+    [
+      "KPI",
+      "Q4 FY24",
+      "Q3 FY23",
+      "Q4 FY23",
+      "FY24",
+      "FY23"
+    ],
+    [
+      "Revenue from operations",
+      "61,237",
+      "60,583",
+      "59,162",
+      "2,40,893",
+      "2,25,458"
+    ],
+    [
+      "Other income",
+      "1,157",
+      "862",
+      "1,175",
+      "4,422",
+      "3,449"
+    ],
+    [
+      "TOTAL INCOME",
+      "62,394",
+      "61,445",
+      "60,337",
+      "2,45,315",
+      "2,28,907"
+    ],
+    [
+      "Expenses",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit expens es",
+      "35,138",
+      "34,722",
+      "33,687",
+      "1,40,131",
+      "1,27,522"
+    ],
+    [
+      "Cos t of equipment and s oftware licences",
+      "1,561",
+      "1,173",
+      "620",
+      "3,702",
+      "1,881"
+    ],
+    [
+      "Finance cos ts",
+      "226",
+      "230",
+      "272",
+      "778",
+      "779"
+    ],
+    [
+      "Depreciation and amortis ation expens e",
+      "1,246",
+      "1,233",
+      "1,286",
+      "4,985",
+      "5,022"
+    ],
+    [
+      "Other expens es",
+      "7,374",
+      "8,300",
+      "9,081",
+      "32,764",
+      "36,796"
+    ],
+    [
+      "TOTAL EXPENSES",
+      "45,545",
+      "45,658",
+      "44,946",
+      "1,82,360",
+      "1,72,000"
+    ],
+    [
+      "PROFIT BEFORE EXCEPTIONAL ITEM AND TAX",
+      "16,849",
+      "15,787",
+      "15,391",
+      "62,955",
+      "56,907"
+    ],
+    [
+      "Exceptional item",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Settlement of legal claim",
+      "-",
+      "958",
+      "-",
+      "958",
+      "-"
+    ],
+    [
+      "PROFIT BEFORE TAX",
+      "16,849",
+      "14,829",
+      "15",
+      "391",
+      "61,997"
+    ],
+    [
+      "Tax expense",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current tax",
+      "4,408",
+      "3,633",
+      "4,079",
+      "15,864",
+      "14,757"
+    ],
+    [
+      "Deferred tax",
+      "(61)",
+      "99",
+      "(124)",
+      "34",
+      "(153)"
+    ],
+    [
+      "TOTAL TAX EXPENSE",
+      "4,347",
+      "3,732",
+      "3,955",
+      "15,898",
+      "14,604"
+    ],
+    [
+      "PROFIT FOR THE PERIOD",
+      "12,502",
+      "11,097",
+      "11,436",
+      "46,099",
+      "42,303"
+    ],
+    [
+      "OTHER COMPREHENSIVE INCOME (OCI)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Items that will not be reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or",
+      "loss"
+    ],
+    [
+      "Remeas urement of defined employee benefit plans",
+      "63",
+      "(70)",
+      "(15)",
+      "(2)",
+      "350"
+    ],
+    [
+      "Net change in fair values",
+      "of",
+      "inves",
+      "tments",
+      "in",
+      "equity"
+    ],
+    [
+      "carried",
+      "at",
+      "fair",
+      "value",
+      "through",
+      "OCI"
+    ],
+    [
+      "(6)",
+      "-",
+      "(2)",
+      "(6)",
+      "(2)",
+      ""
+    ],
+    [
+      "Income tax on items that will not",
+      "be",
+      "reclassified",
+      "subsequently",
+      "to",
+      "profit"
+    ],
+    [
+      "or loss",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(15)",
+      "12",
+      "23",
+      "(11)",
+      "(75)",
+      ""
+    ],
+    [
+      "Items that will be reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or",
+      "loss"
+    ],
+    [
+      "Net change in fair values",
+      "of",
+      "inves",
+      "tments",
+      "other",
+      "than"
+    ],
+    [
+      "s hares",
+      "carried",
+      "at",
+      "fair",
+      "value",
+      "through"
+    ],
+    [
+      "208",
+      "54",
+      "41",
+      "237",
+      "(679)",
+      ""
+    ],
+    [
+      "Net change in intrins ic value of derivatives",
+      "des",
+      "ignated",
+      "as",
+      "cas",
+      "h"
+    ],
+    [
+      "flow hedges",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "9",
+      "(82)",
+      "102",
+      "1",
+      "(25)",
+      ""
+    ],
+    [
+      "Net change in time value of derivatives",
+      "des",
+      "ignated",
+      "as",
+      "cas",
+      "h"
+    ],
+    [
+      "flow hedges",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "15",
+      "-",
+      "99",
+      "13",
+      "32",
+      ""
+    ],
+    [
+      "Exchange differences",
+      "on",
+      "trans",
+      "lation",
+      "of",
+      "financial"
+    ],
+    [
+      "foreign operations",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(478)",
+      "718",
+      "151",
+      "44",
+      "655",
+      ""
+    ],
+    [
+      "Income tax on items that will be",
+      "reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or"
+    ],
+    [
+      "loss",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(58)",
+      "5",
+      "(60)",
+      "(39)",
+      "236",
+      ""
+    ],
+    [
+      "TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)",
+      "(262)",
+      "637",
+      "339",
+      "237",
+      "492"
+    ],
+    [
+      "TOTAL COMPREHENSIVE INCOME FOR THE PERIOD",
+      "12,240",
+      "11,734",
+      "11,775",
+      "46,336",
+      "42,795"
+    ],
+    [
+      "Profit",
+      "for",
+      "the",
+      "period",
+      "attributable",
+      "to:"
+    ],
+    [
+      "Shareholders",
+      "of",
+      "the",
+      "Company",
+      "12,434",
+      "11,058"
+    ],
+    [
+      "Non-controlling interes ts",
+      "68",
+      "39",
+      "44",
+      "191",
+      "156"
+    ],
+    [
+      "12,502",
+      "11,097",
+      "11,436",
+      "46,099",
+      "42,303",
+      ""
+    ],
+    [
+      "Other comprehensive income",
+      "for",
+      "the",
+      "period",
+      "attributable",
+      "to:"
+    ],
+    [
+      "Shareholders",
+      "of",
+      "the",
+      "Company",
+      "(226)",
+      "609"
+    ],
+    [
+      "Non-controlling interes ts",
+      "(36)",
+      "28",
+      "(12)",
+      "(62)",
+      "(1)"
+    ],
+    [
+      "(262)",
+      "637",
+      "339",
+      "237",
+      "492",
+      ""
+    ],
+    [
+      "Total comprehensive income",
+      "for",
+      "the",
+      "period",
+      "attributable",
+      "to:"
+    ],
+    [
+      "Shareholders",
+      "of",
+      "the",
+      "Company",
+      "12,208",
+      "11,667"
+    ],
+    [
+      "Non-controlling interes ts",
+      "32",
+      "67",
+      "32",
+      "129",
+      "155"
+    ],
+    [
+      "12,240",
+      "11,734",
+      "11,775",
+      "46,336",
+      "42,795",
+      ""
+    ],
+    [
+      "Paid up equity s hare capital (Face value: `1 per s hare)",
+      "362",
+      "362",
+      "366",
+      "362",
+      "366"
+    ],
+    [
+      "Total reserves",
+      "(including",
+      "Non-controlling",
+      "interests)",
+      "90,957",
+      "90,840"
+    ],
+    [
+      "(` crore)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited",
+      "Consolidated",
+      "Statement",
+      "of",
+      "Financial",
+      "Results"
+    ],
+    [
+      "Tel: +91 22 6778",
+      "9595",
+      "e-mail:",
+      "investor.relations@tcs.com",
+      "Website:",
+      "www.tcs.com"
+    ],
+    [
+      "CIN: L22210MH1995PLC084781",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Registered Office: 9th Floor, Nirmal Building,",
+      "Nariman",
+      "Point,",
+      "Mumbai",
+      "400",
+      "021"
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Three",
+      "month",
+      "period",
+      "ended",
+      "Year",
+      "ended"
+    ],
+    [
+      "Earnings per equity share:- Basic and diluted ( `)",
+      "34.37",
+      "30.29",
+      "31.14",
+      "125.88",
+      "115.19"
+    ],
+    [
+      "Dividend per",
+      "share",
+      "(Par",
+      "value",
+      "`1",
+      "each)"
+    ],
+    [
+      "Interim dividend on equity shares ( `)",
+      "-",
+      "27.00",
+      "-",
+      "45.00",
+      "91.00"
+    ],
+    [
+      "Final dividend on equity shares ( `)",
+      "28.00",
+      "-",
+      "24.00",
+      "28.00",
+      "24.00"
+    ],
+    [
+      "Total dividend on equity shares ( `)",
+      "28.00",
+      "27.00",
+      "24.00",
+      "73.00",
+      "115.00"
+    ],
+    [
+      "Total equity dividend percentage",
+      "2,800",
+      "2,700",
+      "2,400",
+      "7,300",
+      "11,500"
+    ],
+    [
+      "March 31, December 31, March",
+      "31,",
+      "March",
+      "31,",
+      "March",
+      "31,"
+    ],
+    [
+      "2024 2023 2023 2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "SEGMENT REVENUE",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Banking, Financial Services and Insurance",
+      "22,759",
+      "22,667",
+      "22,628",
+      "90,928",
+      "86,127"
+    ],
+    [
+      "Manufacturing",
+      "6,137",
+      "5,931",
+      "5,550",
+      "23,491",
+      "21,236"
+    ],
+    [
+      "Consumer Business",
+      "9,891",
+      "9,817",
+      "9,773",
+      "39,357",
+      "37,506"
+    ],
+    [
+      "Communication, Media and Technology",
+      "10,291",
+      "9,932",
+      "9,696",
+      "39,391",
+      "37,653"
+    ],
+    [
+      "Life Sciences and Healthcare",
+      "6,758",
+      "6,726",
+      "6,585",
+      "26,745",
+      "24,605"
+    ],
+    [
+      "Others",
+      "5,401",
+      "5,510",
+      "4,930",
+      "20,981",
+      "18,331"
+    ],
+    [
+      "Total",
+      "61,237",
+      "60,583",
+      "59,162",
+      "2,40,893",
+      "2,25,458"
+    ],
+    [
+      "SEGMENT RESULT",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Banking, Financial Services and Insurance",
+      "6,305",
+      "5,951",
+      "5,869",
+      "23,574",
+      "22,345"
+    ],
+    [
+      "Manufacturing",
+      "2,100",
+      "1,869",
+      "1,522",
+      "7,268",
+      "5,842"
+    ],
+    [
+      "Consumer Business",
+      "2,719",
+      "2,583",
+      "2,575",
+      "10,252",
+      "9,636"
+    ],
+    [
+      "Communication, Media and Technology",
+      "2,669",
+      "2,833",
+      "2,889",
+      "10,918",
+      "10,667"
+    ],
+    [
+      "Life Sciences and Healthcare",
+      "2,067",
+      "1,926",
+      "1,831",
+      "7,611",
+      "6,894"
+    ],
+    [
+      "Others",
+      "1,304",
+      "1,226",
+      "1,088",
+      "4,673",
+      "3,875"
+    ],
+    [
+      "Total",
+      "17,164",
+      "16,388",
+      "15,774",
+      "64,296",
+      "59,259"
+    ],
+    [
+      "Unallocable expenses*",
+      "1,472",
+      "2,421",
+      "1,558",
+      "6,721",
+      "5,801"
+    ],
+    [
+      "Operating income",
+      "15,692",
+      "13,967",
+      "14,216",
+      "57,575",
+      "53,458"
+    ],
+    [
+      "Other income",
+      "1,157",
+      "862",
+      "1,175",
+      "4,422",
+      "3,449"
+    ],
+    [
+      "PROFIT BEFORE TAX",
+      "16,849",
+      "14,829",
+      "15,391",
+      "61,997",
+      "56,907"
+    ],
+    [
+      "Three",
+      "month",
+      "period",
+      "ended",
+      "Year",
+      "ended"
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited Consolidated Segment Information",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(` crore)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Note: The assets and liabilities of the Group are used interchangeably amongst segments. Allocation of such assets and liabilities is",
+      "not",
+      "practicable",
+      "and",
+      "any",
+      "forced"
+    ],
+    [
+      "allocation would not result in any meaningful segregation. Hence, assets and liabilities have not been identified to",
+      "any",
+      "of",
+      "the",
+      "reportable",
+      "segments."
+    ],
+    [
+      "*Includes settlement of",
+      "legal",
+      "claim",
+      "of",
+      "`958",
+      "crore."
+    ],
+    [
+      "As at As at",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "March",
+      "31,",
+      "2024",
+      "March",
+      "31,",
+      "2023"
+    ],
+    [
+      "ASSETS",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Non-current assets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Property,",
+      "plant",
+      "and",
+      "equipment",
+      "9,376",
+      "10,230"
+    ],
+    [
+      "Capital work-in-progres s 1,564 1,234",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Right-of-us e",
+      "as",
+      "s",
+      "ets",
+      "7,886",
+      "7,560"
+    ],
+    [
+      "Goodwill",
+      "1,832",
+      "1,858",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other intangible",
+      "as",
+      "s",
+      "ets",
+      "510",
+      "867"
+    ],
+    [
+      "Financial as s ets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inves tments 281 266",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed 127 149",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled 16 199",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans 2 173",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial",
+      "as",
+      "s",
+      "ets",
+      "3,272",
+      "2,149"
+    ],
+    [
+      "Deferred tax as",
+      "s",
+      "ets",
+      "(net)",
+      "3,403",
+      "3,307"
+    ],
+    [
+      "Income tax as",
+      "s",
+      "ets",
+      "(net)",
+      "1,600",
+      "2,583"
+    ],
+    [
+      "Other",
+      "as",
+      "s",
+      "ets",
+      "3,596",
+      "2,806"
+    ],
+    [
+      "Total non-current assets 33,465 33,381",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current assets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inventories 28 28",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial as s ets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inves tments 31,481 36,897",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed 44,434 41,049",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled 9,143 8,905",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cas h and",
+      "cas",
+      "h",
+      "equivalents",
+      "9,016",
+      "7,123"
+    ],
+    [
+      "Other balances",
+      "with",
+      "banks",
+      "4,270",
+      "3,909",
+      ""
+    ],
+    [
+      "Loans 491 1,325",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial",
+      "as",
+      "s",
+      "ets",
+      "1,703",
+      "1,319"
+    ],
+    [
+      "Income tax as",
+      "s",
+      "ets",
+      "(net)",
+      "151",
+      "8"
+    ],
+    [
+      "Other",
+      "as",
+      "s",
+      "ets",
+      "12,267",
+      "9,707"
+    ],
+    [
+      "Total current assets 1,12,984 1,10,270",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TOTAL ASSETS 1,46,449 1,43,651",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "EQUITY AND LIABILITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Equity",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Share capital 362 366",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other equity 90,127 90,058",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Equity attributable to shareholders",
+      "of",
+      "the",
+      "Company",
+      "90,489",
+      "90,424"
+    ],
+    [
+      "Non-controlling interes ts 830 782",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total equity 91,319 91,206",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Non-current liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Leas e liabilities 6,516 6,203",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial liabilities 365 353",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit obligations 686",
+      "536",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Deferred tax liabilities",
+      "(net)",
+      "977",
+      "792",
+      "",
+      ""
+    ],
+    [
+      "Unearned and deferred revenue",
+      "482",
+      "1,003",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total non-current liabilities 9,026 8,887",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Leas e liabilities 1,505 1,485",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade payables 9,981 10,515",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial liabilities 8,362 9,068",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unearned",
+      "and",
+      "deferred",
+      "revenue",
+      "3,640",
+      "3,843"
+    ],
+    [
+      "Other liabilities 6,524 4,892",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Provis ions 140 345",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit obligations 4,519 4,065",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Income tax liabilities",
+      "(net)",
+      "11,433",
+      "9,345",
+      "",
+      ""
+    ],
+    [
+      "Total current liabilities 46,104 43,558",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TOTAL",
+      "EQUITY",
+      "AND",
+      "LIABILITIES",
+      "1,46,449",
+      "1,43,651"
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited Consolidated Balance Sheet",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(` crore)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Select explanatory notes to the Statement of Audited Consolidated Financial Results for three",
+      "month",
+      "period",
+      "and",
+      "year",
+      "ended"
+    ],
+    [
+      "March 31, 2024",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1. These results have been prepared on the basis of the consolidated audited financial statements for the year",
+      "ended",
+      "March",
+      "31,",
+      "2",
+      "024"
+    ],
+    [
+      "and the consolidated audited condensed interim financial statements upto the end of the third",
+      "quarter,",
+      "which",
+      "are",
+      "prepared",
+      "in"
+    ],
+    [
+      "accordance with the Ind AS notified under the Companies (Indian Accounting Standards) Rules, 2015.",
+      "These",
+      "results",
+      "have",
+      "been",
+      ""
+    ],
+    [
+      "reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on",
+      "April",
+      "12,",
+      "2024.",
+      "The",
+      "statutory"
+    ],
+    [
+      "auditors have expressed an unmodified",
+      "audit",
+      "opinion",
+      "on",
+      "these",
+      "results."
+    ],
+    [
+      "2. Consolidated Statement of Cash flows",
+      "is",
+      "attached",
+      "in",
+      "Annexure",
+      "I."
+    ],
+    [
+      "3. The Board of Directors at its meeting held on April 12, 2024, has proposed a final dividend",
+      "of",
+      "`28.00",
+      "per",
+      "equity",
+      "share."
+    ],
+    [
+      "4. The results for three month period and year ended March 31, 2024 , are available",
+      "on",
+      "the",
+      "BSE",
+      "Limited",
+      "website"
+    ],
+    [
+      "(URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL:",
+      "www.nseindia.com)",
+      "and",
+      "on",
+      "the",
+      "Company’s"
+    ],
+    [
+      "website (URL: www.tcs.com/investors).",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "For and on behalf",
+      "of",
+      "the",
+      "Board",
+      "of",
+      "Directors"
+    ],
+    [
+      "Mumbai",
+      "K",
+      "Krithivasan",
+      "",
+      "",
+      ""
+    ],
+    [
+      "April 12, 2024",
+      "CEO",
+      "and",
+      "Managing",
+      "Director",
+      ""
+    ],
+    [
+      "March 31, March 31,",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CASH FLOWS FROM OPERATING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Profit",
+      "for",
+      "the",
+      "year",
+      "46,099",
+      "42,303"
+    ],
+    [
+      "Adjustments for:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Depreciation and amortis",
+      "ation",
+      "expens",
+      "e",
+      "4,985",
+      "5,022"
+    ],
+    [
+      "Bad debts and advances",
+      "written",
+      "off,",
+      "allowance",
+      "for",
+      "doubtful"
+    ],
+    [
+      "Tax expens e 15,898 14,604",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net (gain) / los s",
+      "on",
+      "leas",
+      "e",
+      "modification",
+      "(7)"
+    ],
+    [
+      "Unrealis ed foreign exchange gain (17)",
+      "(189)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net gain on dis pos al of property, plant and equipment (7)",
+      "(26)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net gain on dis pos al / fair valuation of inves tments (312)",
+      "(224)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Interes t income (3,781)",
+      "(3,248)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend income (41)",
+      "(15)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Finance cos ts 778 779",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Operating profit before",
+      "working",
+      "capital",
+      "changes",
+      "63,709",
+      "59,148"
+    ],
+    [
+      "Net change in",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inventories -",
+      "(8)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed (3,327)",
+      "(6,501)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled (5)",
+      "(1,182)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans",
+      "and",
+      "other",
+      "financial",
+      "as",
+      "s"
+    ],
+    [
+      "Other as s ets (3,160)",
+      "(25)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade payables (632)",
+      "2,036",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unearned and deferred revenue (740)",
+      "39",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial liabilities (695)",
+      "1,417",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other liabilities",
+      "and",
+      "provis",
+      "ions",
+      "1978",
+      "(254)"
+    ],
+    [
+      "Cash",
+      "generated",
+      "from",
+      "operations",
+      "56,827",
+      "54,931"
+    ],
+    [
+      "Taxes",
+      "paid",
+      "(net",
+      "of",
+      "refunds",
+      ")"
+    ],
+    [
+      "Net cash generated",
+      "from",
+      "operating",
+      "activities",
+      "44,338",
+      "41,965"
+    ],
+    [
+      "CASH FLOWS FROM INVESTING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Bank depos its placed (9,471)",
+      "(4,548)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inter-corporate depos its placed -",
+      "(8,293)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Purchas e of inves tments (141,011)",
+      "(129,745)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Payment for purchas e of property, plant and equipment (2,202)",
+      "(2,532)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Payment including advances",
+      "for",
+      "acquiring",
+      "right-of-us",
+      "e",
+      "as"
+    ],
+    [
+      "Payment for purchas e of intangible as s ets (442)",
+      "(355)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Proceeds",
+      "from",
+      "bank",
+      "depos",
+      "its",
+      "8,089"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "inter-corporate",
+      "depos",
+      "its",
+      "846"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "dis",
+      "pos",
+      "al",
+      "/"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "s",
+      "ub-leas",
+      "e",
+      "receivable"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "dis",
+      "pos",
+      "al",
+      "of"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "dis",
+      "pos",
+      "al",
+      "of"
+    ],
+    [
+      "Interes t received 2,990 3,080",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend received 26 13",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net cash generated from investing activities 6,026",
+      "39",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Year ended",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Annexure I",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited",
+      "Consolidated",
+      "Statement",
+      "of",
+      "Cash",
+      "Flows"
+    ],
+    [
+      "(`",
+      "crore)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "March 31, March 31,",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CASH FLOWS FROM FINANCING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Repayment of lease liabilities (1,614)",
+      "(1,515)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Interest paid (699)",
+      "(779)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend paid (25,137)",
+      "(41,347)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend paid to non-controlling interests (81)",
+      "(63)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Transfer of funds to buy-back escrow account",
+      "(425)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Transfer of funds from buy-back escrow account",
+      "425",
+      "18",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Expenses for buy-back of equity shares",
+      "(46)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Tax on buy-back of equity shares",
+      "(3,959)",
+      "(4,192)",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Buy-back of equity shares",
+      "(17,000)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net cash used in financing activities (48,536)",
+      "(47,878)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net change in cash and cash equivalents 1,828",
+      "(5,874)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents at the beginning of the year",
+      "7,123",
+      "12,488",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Exchange difference on translation of foreign currency cash and cash equivalents 65",
+      "509",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents at the end",
+      "of",
+      "the",
+      "year",
+      "9,016",
+      "7,123"
+    ],
+    [
+      "Components",
+      "of",
+      "cash",
+      "and",
+      "cash",
+      "equivalents"
+    ],
+    [
+      "Balances with banks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "In current accounts",
+      "2,804",
+      "2,114",
+      "",
+      "",
+      ""
+    ],
+    [
+      "In deposit accounts",
+      "6,212",
+      "4,999",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cheques on hand -* -*",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash on hand -* -*",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Remittances in transit -* 10",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "9,016 7,123",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "*Represents",
+      "values",
+      "less",
+      "than",
+      "`0.50",
+      "crore."
+    ],
+    [
+      "Year ended",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited",
+      "Consolidated",
+      "Statement",
+      "of",
+      "Cash",
+      "Flows"
+    ],
+    [
+      "(`",
+      "crore)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "March 31, December 31, March",
+      "31,",
+      "March",
+      "31,",
+      "March",
+      "31,"
+    ],
+    [
+      "2024 2023 2023 2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Revenue from operations",
+      "51,488",
+      "50,844",
+      "49,780",
+      "2,02,359",
+      "1,90,354"
+    ],
+    [
+      "Other income",
+      "1,806",
+      "1,809",
+      "1,433",
+      "7,273",
+      "5,328"
+    ],
+    [
+      "TOTAL INCOME",
+      "53,294",
+      "52,653",
+      "51,213",
+      "2,09,632",
+      "1,95,682"
+    ],
+    [
+      "Expenses",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit expens es",
+      "25,631",
+      "25,511",
+      "25,258",
+      "1,03,139",
+      "96,218"
+    ],
+    [
+      "Cos t of equipment and s oftware licences",
+      "1,484",
+      "1,120",
+      "463",
+      "3,347",
+      "1,416"
+    ],
+    [
+      "Finance cos ts",
+      "197",
+      "204",
+      "250",
+      "673",
+      "695"
+    ],
+    [
+      "Depreciation and amortis ation expens e",
+      "975",
+      "964",
+      "1,008",
+      "3,887",
+      "3,940"
+    ],
+    [
+      "Other expens es",
+      "9,827",
+      "9,850",
+      "11,189",
+      "40,026",
+      "41,723"
+    ],
+    [
+      "TOTAL EXPENSES",
+      "38,114",
+      "37,649",
+      "38,168",
+      "1,51,072",
+      "1,43,992"
+    ],
+    [
+      "PROFIT BEFORE EXCEPTIONAL ITEM AND TAX",
+      "15,180",
+      "15,004",
+      "13,045",
+      "58,560",
+      "51,690"
+    ],
+    [
+      "Exceptional item",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Settlement of legal claim",
+      "-",
+      "958",
+      "-",
+      "958",
+      "-"
+    ],
+    [
+      "PROFIT BEFORE TAX",
+      "15,180",
+      "14,046",
+      "13,045",
+      "57,602",
+      "51,690"
+    ],
+    [
+      "Tax Expense",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current tax",
+      "3,925",
+      "3,263",
+      "3,459",
+      "14,178",
+      "12,946"
+    ],
+    [
+      "Deferred tax",
+      "(138)",
+      "30",
+      "(214)",
+      "(135)",
+      "(362)"
+    ],
+    [
+      "TOTAL TAX EXPENSE",
+      "3,787",
+      "3,293",
+      "3,245",
+      "14,043",
+      "12,584"
+    ],
+    [
+      "PROFIT FOR THE PERIOD",
+      "11,393",
+      "10,753",
+      "9,800",
+      "43,559",
+      "39,106"
+    ],
+    [
+      "OTHER COMPREHENSIVE INCOME (OCI)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Items that will not be reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or",
+      "loss"
+    ],
+    [
+      "Remeas urement of defined employee benefit plans",
+      "53",
+      "(100)",
+      "(15)",
+      "(60)",
+      "54"
+    ],
+    [
+      "Net change in fair values",
+      "of",
+      "inves",
+      "tments",
+      "in",
+      "equity"
+    ],
+    [
+      "carried",
+      "at",
+      "fair",
+      "value",
+      "through",
+      "OCI"
+    ],
+    [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      ""
+    ],
+    [
+      "Income tax on items that will not",
+      "be",
+      "reclassified",
+      "subsequently",
+      "to",
+      "profit"
+    ],
+    [
+      "or loss",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(12)",
+      "22",
+      "3",
+      "13",
+      "(12)",
+      ""
+    ],
+    [
+      "Items that will be reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or",
+      "loss"
+    ],
+    [
+      "Net change in fair values",
+      "of",
+      "inves",
+      "tments",
+      "other",
+      "than"
+    ],
+    [
+      "s hares",
+      "carried",
+      "at",
+      "fair",
+      "value",
+      "through"
+    ],
+    [
+      "208",
+      "54",
+      "41",
+      "237",
+      "(679)",
+      ""
+    ],
+    [
+      "Net change in intrins ic value of derivatives",
+      "des",
+      "ignated",
+      "as",
+      "cas",
+      "h"
+    ],
+    [
+      "flow hedges",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "9",
+      "(82)",
+      "102",
+      "1",
+      "(25)",
+      ""
+    ],
+    [
+      "Net change in time value of derivatives",
+      "des",
+      "ignated",
+      "as",
+      "cas",
+      "h"
+    ],
+    [
+      "flow hedges",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "15",
+      "-",
+      "99",
+      "13",
+      "32",
+      ""
+    ],
+    [
+      "Income tax on items that will be",
+      "reclassified",
+      "subsequently",
+      "to",
+      "profit",
+      "or"
+    ],
+    [
+      "loss",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(57)",
+      "5",
+      "(60)",
+      "(39)",
+      "236",
+      ""
+    ],
+    [
+      "TOTAL OTHER COMPREHENSIVE INCOME / (LOSSES)",
+      "216",
+      "(101)",
+      "170",
+      "165",
+      "(394)"
+    ],
+    [
+      "TOTAL COMPREHENSIVE INCOME FOR THE PERIOD",
+      "11,609",
+      "10,652",
+      "9,970",
+      "43,724",
+      "38,712"
+    ],
+    [
+      "Paid up equity s hare capital (Face value: `1 per s hare)",
+      "362",
+      "362",
+      "366",
+      "362",
+      "366"
+    ],
+    [
+      "Total reserves 71,758 74,172",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Three",
+      "month",
+      "period",
+      "ended",
+      "Year",
+      "ended"
+    ],
+    [
+      "Audited",
+      "Standalone",
+      "Statement",
+      "of",
+      "Financial",
+      "Results"
+    ],
+    [
+      "(` crore)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Registered Office: 9th Floor, Nirmal Building,",
+      "Nariman",
+      "Point,",
+      "Mumbai",
+      "400",
+      "021"
+    ],
+    [
+      "CIN: L22210MH1995PLC084781",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Tel: +91 22 6778",
+      "9595",
+      "e-mail:",
+      "investor.relations@tcs.com",
+      "Website:",
+      "www.tcs.com"
+    ],
+    [
+      "Earnings per equity share:- Basic and diluted ( `)",
+      "31.48",
+      "29.45",
+      "26.79",
+      "119.44",
+      "106.88"
+    ],
+    [
+      "Dividend per",
+      "share",
+      "(Par",
+      "value",
+      "`1",
+      "each)"
+    ],
+    [
+      "Interim dividend on equity shares ( `)",
+      "-",
+      "27.00",
+      "-",
+      "45.00",
+      "91.00"
+    ],
+    [
+      "Final dividend on equity shares ( `)",
+      "28.00",
+      "-",
+      "24.00",
+      "28.00",
+      "24.00"
+    ],
+    [
+      "Total dividend on equity shares ( `)",
+      "28.00",
+      "27.00",
+      "24.00",
+      "73.00",
+      "115.00"
+    ],
+    [
+      "Total equity dividend percentage",
+      "2,800",
+      "2,700",
+      "2,400",
+      "7,300",
+      "11,500"
+    ],
+    [
+      "As at As at",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "March",
+      "31,",
+      "2024",
+      "March",
+      "31,",
+      "2023"
+    ],
+    [
+      "ASSETS",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Non-current assets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Property,",
+      "plant",
+      "and",
+      "equipment",
+      "8,336",
+      "9,186"
+    ],
+    [
+      "Capital work-in-progres s 1,450 1,103",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Right-of-us e",
+      "as",
+      "s",
+      "ets",
+      "6,154",
+      "5,695"
+    ],
+    [
+      "Intangible",
+      "as",
+      "s",
+      "ets",
+      "463",
+      "809"
+    ],
+    [
+      "Financial as s ets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inves tments 2,405 2,405",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed 127 125",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled 65 196",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans 2 3",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial",
+      "as",
+      "s",
+      "ets",
+      "626",
+      "532"
+    ],
+    [
+      "Deferred tax as",
+      "s",
+      "ets",
+      "(net)",
+      "2,524",
+      "2,464"
+    ],
+    [
+      "Income tax as",
+      "s",
+      "ets",
+      "(net)",
+      "1,062",
+      "2,115"
+    ],
+    [
+      "Other",
+      "as",
+      "s",
+      "ets",
+      "3,016",
+      "2,410"
+    ],
+    [
+      "Total non-current assets 26,230 27,043",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current assets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inventories 27 27",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial as s ets",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inves tments 29,840 35,738",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed 38,591 35,534",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled 7,477 7,264",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cas h and",
+      "cas",
+      "h",
+      "equivalents",
+      "3,644",
+      "1,462"
+    ],
+    [
+      "Other balances",
+      "with",
+      "banks",
+      "2,955",
+      "3,081",
+      ""
+    ],
+    [
+      "Loans 317 332",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial",
+      "as",
+      "s",
+      "ets",
+      "1,559",
+      "1,557"
+    ],
+    [
+      "Income tax as s ets (net)",
+      "111",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other",
+      "as",
+      "s",
+      "ets",
+      "10,397",
+      "7,789"
+    ],
+    [
+      "Total current assets 94,918 92,784",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TOTAL ASSETS 1,21,148 1,19,827",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "EQUITY AND LIABILITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Equity",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Share capital 362 366",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other equity 71,758 74,172",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Total equity 72,120 74,538",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Non-current liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Leas e liabilities 5,128 4,698",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial liabilities 315 340",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit obligations 144",
+      "95",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Deferred tax liabilities",
+      "(net)",
+      "154",
+      "190",
+      "",
+      ""
+    ],
+    [
+      "Unearned",
+      "and",
+      "deferred",
+      "revenue",
+      "226",
+      "642"
+    ],
+    [
+      "Total non-current liabilities 5,967 5,965",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Current liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Financial liabilities",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Leas e liabilities 1,017 961",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade payables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dues",
+      "of",
+      "s",
+      "mall",
+      "enterpris",
+      "es"
+    ],
+    [
+      "Dues",
+      "of",
+      "creditors",
+      "other",
+      "than",
+      "s"
+    ],
+    [
+      "Other financial liabilities 6,286 6,948",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unearned",
+      "and",
+      "deferred",
+      "revenue",
+      "2,811",
+      "2,962"
+    ],
+    [
+      "Other liabilities 4,458 3,113",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Provis ions 71 279",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Employee benefit obligations 3,332 3,022",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Income tax liabilities",
+      "(net)",
+      "10,487",
+      "8,271",
+      "",
+      ""
+    ],
+    [
+      "Total current liabilities 43,061 39,324",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TOTAL",
+      "EQUITY",
+      "AND",
+      "LIABILITIES",
+      "1,21,148",
+      "1,19,827"
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited Standalone Balance Sheet",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "(`",
+      "crore)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Select explanatory notes to the Statement of Audited Standalone Financial Results for three month period",
+      "and",
+      "year",
+      "ended",
+      "March",
+      "31,"
+    ],
+    [
+      "2024",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1. These results have been prepared on the basis of the audited standalone financial statements for the year",
+      "ended",
+      "March",
+      "31,",
+      "2024",
+      "and"
+    ],
+    [
+      "the audited standalone condensed interim financial statements upto the end of the third quarter,",
+      "which",
+      "are",
+      "prepared",
+      "in",
+      "accordance"
+    ],
+    [
+      "with the Ind AS notified under the Companies (Indian Accounting Standards) Rules, 2015.",
+      "These",
+      "results",
+      "have",
+      "been",
+      "reviewed"
+    ],
+    [
+      "Audit Committee and approved by the Board of Directors at its meeting held on April 12, 2024.",
+      "The",
+      "statutory",
+      "auditors",
+      "have",
+      "expressed"
+    ],
+    [
+      "an unmodified",
+      "audit",
+      "opinion",
+      "on",
+      "these",
+      "results."
+    ],
+    [
+      "2. Audited Standalone Statement of Cash Flows",
+      "is",
+      "attached",
+      "in",
+      "Annexure",
+      "A."
+    ],
+    [
+      "3. The Board of Directors at its meeting held on April 12, 2024, has proposed a final dividend",
+      "of",
+      "`28.00",
+      "per",
+      "equity",
+      "share."
+    ],
+    [
+      "4. The results for three month period and year ended March 31, 2024 , are available",
+      "on",
+      "the",
+      "BSE",
+      "Limited",
+      "website"
+    ],
+    [
+      "(URL: www.bseindia.com), the National Stock Exchange of India Limited website (URL:",
+      "www.nseindia.com)",
+      "and",
+      "on",
+      "the",
+      "Company’s"
+    ],
+    [
+      "website (URL: www.tcs.com/investors).",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "For and on behalf",
+      "of",
+      "the",
+      "Board",
+      "of",
+      "Directors"
+    ],
+    [
+      "Mumbai",
+      "K",
+      "Krithivasan",
+      "",
+      "",
+      ""
+    ],
+    [
+      "April 12, 2024",
+      "CEO",
+      "and",
+      "Managing",
+      "Director",
+      ""
+    ],
+    [
+      "March 31, March 31,",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CASH FLOWS FROM OPERATING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Profit",
+      "for",
+      "the",
+      "year",
+      "43,559",
+      "39,106"
+    ],
+    [
+      "Adjustments for:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Depreciation and amortis",
+      "ation",
+      "expens",
+      "e",
+      "3,887",
+      "3,940"
+    ],
+    [
+      "Bad debts and advances",
+      "written",
+      "off,",
+      "allowance",
+      "for",
+      "doubtful"
+    ],
+    [
+      "Tax expens e",
+      "14,043",
+      "12,584",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net (gain) / los s",
+      "on",
+      "leas",
+      "e",
+      "modification",
+      "(2)"
+    ],
+    [
+      "Net gain on s ub-leas e",
+      "-",
+      "(7)",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unrealis ed foreign exchange gain (11)",
+      "(185)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net gain on dis pos al of property, plant and equipment (8)",
+      "(27)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net gain on dis pos al / fair valuation of inves tments (264)",
+      "(209)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Interes t income (3,382)",
+      "(3,046)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend income (Including exchange impact) (3,288)",
+      "(2,112)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Finance cos ts 673 695",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Operating profit before",
+      "working",
+      "capital",
+      "changes",
+      "55,304",
+      "50,852"
+    ],
+    [
+      "Net change in",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inventories -",
+      "(8)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade receivables",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Billed (3,145)",
+      "(5,817)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unbilled (82)",
+      "(1,157)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Loans",
+      "and",
+      "other",
+      "financial",
+      "as",
+      "s"
+    ],
+    [
+      "Other as s ets (3,125)",
+      "(384)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Trade payables 831 3,686",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Unearned and deferred revenue (567)",
+      "31",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other financial liabilities (698)",
+      "1,222",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Other liabilities",
+      "and",
+      "provis",
+      "ions",
+      "1,498",
+      "(654)"
+    ],
+    [
+      "Cash",
+      "generated",
+      "from",
+      "operations",
+      "49,725",
+      "47,963"
+    ],
+    [
+      "Taxes",
+      "paid",
+      "(net",
+      "of",
+      "refunds",
+      ")"
+    ],
+    [
+      "Net cash generated",
+      "from",
+      "operating",
+      "activities",
+      "39,142",
+      "37,029"
+    ],
+    [
+      "CASH FLOWS FROM INVESTING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Bank depos its placed (6,489)",
+      "(3,528)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Inter-corporate depos its placed -",
+      "(7,580)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Purchas e of inves tments (128,764)",
+      "(122,721)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Payment for purchas e of property, plant and equipment (1,720)",
+      "(2,041)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Payment including advances",
+      "for",
+      "acquiring",
+      "right-of-us",
+      "e",
+      "as"
+    ],
+    [
+      "Payment for purchas e of intangible as s ets (411)",
+      "(340)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Proceeds",
+      "from",
+      "bank",
+      "depos",
+      "its",
+      "6,605"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "inter-corporate",
+      "depos",
+      "its",
+      "-"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "dis",
+      "pos",
+      "al",
+      "/"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "s",
+      "ub-leas",
+      "e",
+      "receivable"
+    ],
+    [
+      "Proceeds",
+      "from",
+      "dis",
+      "pos",
+      "al",
+      "of"
+    ],
+    [
+      "Interes t received 2,670 2,933",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend received from",
+      "s",
+      "ubs",
+      "idiaries",
+      "3,534",
+      "1,866"
+    ],
+    [
+      "Net cash generated from investing activities 10,807",
+      "3,250",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Annexure A",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited",
+      "Standalone",
+      "Statement",
+      "of",
+      "Cash",
+      "Flows"
+    ],
+    [
+      "(`",
+      "crore)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Year ended",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "March 31, March 31,",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "2024 2023",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "CASH FLOWS FROM FINANCING ACTIVITIES",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Repayment of lease liabilities (1,061)",
+      "(1,006)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Interest paid (590)",
+      "(697)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Dividend paid",
+      "(25,137)",
+      "(41,347)",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Transfer of funds to buy-back escrow account",
+      "(425)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Transfer of funds from buy-back escrow account",
+      "425",
+      "18",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Expenses for buy-back of equity shares",
+      "(46)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Tax on buy-back of equity shares",
+      "(3,959)",
+      "(4,192)",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Buy-back of equity shares",
+      "(17,000)",
+      "-",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net cash used in financing activities (47,793)",
+      "(47,224)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Net change in cash and cash equivalents 2,156",
+      "(6,945)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents at the beginning",
+      "of",
+      "the",
+      "year",
+      "1,462",
+      "8,197"
+    ],
+    [
+      "Exchange difference on translation of foreign currency cash and cash equivalents 26",
+      "210",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash and cash equivalents at the end",
+      "of",
+      "the",
+      "year",
+      "3,644",
+      "1,462"
+    ],
+    [
+      "Components",
+      "of",
+      "cash",
+      "and",
+      "cash",
+      "equivalents"
+    ],
+    [
+      "Balances with banks",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "In current accounts 1,359",
+      "776",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "In deposit accounts 2,285",
+      "686",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cheques on hand -* -*",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Cash on hand -* -*",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Remittances in transit",
+      "-*",
+      "-*",
+      "",
+      "",
+      ""
+    ],
+    [
+      "3,644 1,462",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "*Represents",
+      "values",
+      "less",
+      "than",
+      "`0.50",
+      "crore."
+    ],
+    [
+      "Year ended",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "TATA CONSULTANCY SERVICES LIMITED",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Audited",
+      "Standalone",
+      "Statement",
+      "of",
+      "Cash",
+      "Flows"
+    ],
+    [
+      "(`",
+      "crore)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

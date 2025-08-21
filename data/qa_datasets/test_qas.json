@@ -1,0 +1,92 @@
+[
+  {
+    "id": "4da623ae-3ccf-453b-a23a-dd214f7dff62",
+    "question": "What was the Revenue from operations in Q4 FY24?",
+    "answer": "The Revenue from operations in Q4 FY24 was 61,237.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Revenue from operations"
+    }
+  },
+  {
+    "id": "944f27ff-e4ed-4365-8d45-b7fd6ae56cf1",
+    "question": "What was the Revenue from operations in Q3 FY23?",
+    "answer": "The Revenue from operations in Q3 FY23 was 60,583.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Revenue from operations"
+    }
+  },
+  {
+    "id": "db49c9a4-5786-4afd-8ae5-e21f183a172b",
+    "question": "What was the Revenue from operations in Q4 FY23?",
+    "answer": "The Revenue from operations in Q4 FY23 was 59,162.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Revenue from operations"
+    }
+  },
+  {
+    "id": "4413f228-5853-4efc-bbb7-e5c80ff5d94c",
+    "question": "What was the Revenue from operations in FY24?",
+    "answer": "The Revenue from operations in FY24 was 2,40,893.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Revenue from operations"
+    }
+  },
+  {
+    "id": "8b744ef9-fbeb-407e-993c-d49ab2ef48aa",
+    "question": "What was the Revenue from operations in FY23?",
+    "answer": "The Revenue from operations in FY23 was 2,25,458.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Revenue from operations"
+    }
+  },
+  {
+    "id": "ed4a466d-6204-438b-8c64-3d170de7f9f5",
+    "question": "What was the Other income in Q4 FY24?",
+    "answer": "The Other income in Q4 FY24 was 1,157.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Other income"
+    }
+  },
+  {
+    "id": "7b1f9710-8360-41ca-a211-735b77d6b791",
+    "question": "What was the Other income in Q3 FY23?",
+    "answer": "The Other income in Q3 FY23 was 862.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Other income"
+    }
+  },
+  {
+    "id": "74c1d4af-5047-4a0b-a26d-de5c48eb5b1c",
+    "question": "What was the Other income in Q4 FY23?",
+    "answer": "The Other income in Q4 FY23 was 1,175.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Other income"
+    }
+  },
+  {
+    "id": "2863b843-2422-4185-b67e-9ece469b90eb",
+    "question": "What was the Other income in FY24?",
+    "answer": "The Other income in FY24 was 4,422.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Other income"
+    }
+  },
+  {
+    "id": "e26788a2-b5e1-4242-8513-462efd224493",
+    "question": "What was the Other income in FY23?",
+    "answer": "The Other income in FY23 was 3,449.",
+    "meta": {
+      "source": "financial_statement_fixed_2024.json",
+      "kpi": "Other income"
+    }
+  }
+]

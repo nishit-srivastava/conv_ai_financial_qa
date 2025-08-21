@@ -7,3 +7,9 @@ sentence-transformers
 faiss-cpu
 transformers
 accelerate
+datasets
+accelerate
+peft
+evaluate
+sentencepiece
+#pip install torch --index-url https://download.pytorch.org/whl/cpu
