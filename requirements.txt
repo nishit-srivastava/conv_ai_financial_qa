@@ -13,3 +13,5 @@ peft
 evaluate
 sentencepiece
 #pip install torch --index-url https://download.pytorch.org/whl/cpu
+rank_bm25
+nltk
